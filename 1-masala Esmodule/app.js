@@ -1,2 +1,3 @@
-import { add } from "./math.js";
-console.log(add());
+import { devide, multiply } from "./math.js";
+console.log(devide());
+console.log(multiply());
